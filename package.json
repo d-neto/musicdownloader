@@ -1,0 +1,19 @@
+{
+  "name": "musicdownloaderfromytb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ffmpeg-static": "^5.0.0",
+    "request": "^2.88.2",
+    "youtube-mp3-downloader": "^0.7.10",
+    "ytfps": "^1.0.6"
+  }
+}

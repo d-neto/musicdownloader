@@ -1,0 +1,7 @@
+Music/*
+
+!Music/images
+
+!Music/temp
+
+node_modules
